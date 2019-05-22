@@ -2,7 +2,8 @@
 .Synopsis
    Verify a data set against the Havel-Hakimi Algorithm
 .DESCRIPTION
-   Long description
+   Challenge laid out here:
+   https://www.reddit.com/r/dailyprogrammer/comments/bqy1cf/20190520_challenge_378_easy_the_havelhakimi/
 .EXAMPLE
    VerifyHavelHakimi 2,1,1,0
 #>
